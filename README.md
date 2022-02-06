@@ -3,11 +3,11 @@
 
 ## Insert `<script>` tag in your `<body>` Element
 ```html
-    <script src="https://cdn.jsdelivr.net/gh/MASTER0811/play-pause-button/main.js">
+  <script src="https://cdn.jsdelivr.net/gh/MASTER0811/play-pause-button/main.js">
 ```
 #### OR
 ```git
-    git clone https://github.com/MASTER0811/play-pause-button.git
+  git clone https://github.com/MASTER0811/play-pause-button.git
 ```
 
 <!-- ## Add New `<script>` Tag
@@ -20,8 +20,8 @@ Exp:
 - Only Using This Element `<music-btn>`
 Exp:
 ```html
-    <!-- You must add "play" text -->
-    <music-btn>Play</music-btn>
+  <!-- You must add "play" text -->
+  <music-btn>Play</music-btn>
 ```
 #### AND
 - Add `<script>` tag in your `<body>` Element
@@ -46,6 +46,7 @@ Exp:
 ```
 
 ## About the Function
+![](./function.png)
 #### You Can Add `Music` in the First
 Exp:
 ```javascript
@@ -67,12 +68,12 @@ Notice: If you don't want let music loop, you can without any text.
 You can design using `.style` class
 Exp:
 ```css
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-    music-btn.style{
-        padding: 10px 30px;
-        background: lightblue;
-        font-size: 18px;
-        font-family: 'Poppins',sans-serif;
-        font-weight: bold;
-    }
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+  music-btn.style{
+      padding: 10px 30px;
+      background: lightblue;
+      font-size: 18px;
+      font-family: 'Poppins',sans-serif;
+      font-weight: bold;
+  }
 ```
