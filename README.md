@@ -3,7 +3,7 @@
 
 ## Insert `<script>` tag in your `<body>` Element
 ```html
-  <script src="https://cdn.jsdelivr.net/gh/MASTER0811/play-pause-button/main.js">
+  <script src="https://cdn.jsdelivr.net/gh/MASTER0811/play-pause-button/main.js"></script>
 ```
 #### OR
 ```git
