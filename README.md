@@ -68,12 +68,12 @@ Notice: If you don't want let music loop, you can without any text.
 You can design using `.style` class
 Exp:
 ```css
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-  music-btn.style{
-      padding: 10px 30px;
-      background: lightblue;
-      font-size: 18px;
-      font-family: 'Poppins',sans-serif;
-      font-weight: bold;
-  }
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+    music-btn.style{
+        padding: 10px 30px;
+        background: lightblue;
+        font-size: 18px;
+        font-family: 'Poppins',sans-serif;
+        font-weight: bold;
+    }
 ```
